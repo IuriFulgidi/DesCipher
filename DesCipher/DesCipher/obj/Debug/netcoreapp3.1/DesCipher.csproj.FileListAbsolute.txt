@@ -1,0 +1,13 @@
+E:\Projects\DesCipher\DesCipher\DesCipher\bin\Debug\netcoreapp3.1\DesCipher.exe
+E:\Projects\DesCipher\DesCipher\DesCipher\bin\Debug\netcoreapp3.1\DesCipher.deps.json
+E:\Projects\DesCipher\DesCipher\DesCipher\bin\Debug\netcoreapp3.1\DesCipher.runtimeconfig.json
+E:\Projects\DesCipher\DesCipher\DesCipher\bin\Debug\netcoreapp3.1\DesCipher.runtimeconfig.dev.json
+E:\Projects\DesCipher\DesCipher\DesCipher\bin\Debug\netcoreapp3.1\DesCipher.dll
+E:\Projects\DesCipher\DesCipher\DesCipher\bin\Debug\netcoreapp3.1\DesCipher.pdb
+E:\Projects\DesCipher\DesCipher\DesCipher\obj\Debug\netcoreapp3.1\DesCipher.csprojAssemblyReference.cache
+E:\Projects\DesCipher\DesCipher\DesCipher\obj\Debug\netcoreapp3.1\DesCipher.AssemblyInfoInputs.cache
+E:\Projects\DesCipher\DesCipher\DesCipher\obj\Debug\netcoreapp3.1\DesCipher.AssemblyInfo.cs
+E:\Projects\DesCipher\DesCipher\DesCipher\obj\Debug\netcoreapp3.1\DesCipher.csproj.CoreCompileInputs.cache
+E:\Projects\DesCipher\DesCipher\DesCipher\obj\Debug\netcoreapp3.1\DesCipher.dll
+E:\Projects\DesCipher\DesCipher\DesCipher\obj\Debug\netcoreapp3.1\DesCipher.pdb
+E:\Projects\DesCipher\DesCipher\DesCipher\obj\Debug\netcoreapp3.1\DesCipher.genruntimeconfig.cache
